@@ -1,7 +1,26 @@
-# n2_martim_ciencia_de_dados
+# AVALIAÇÃO N2 - CIÊNCIA DE DADOS
+
+## Equipe
+- Lucas Josué Schneider
+- João Pedro Papp
+- Antonio Marcos Siqueira
+
+## Faculdade
+Católica SC - Jaraguá do Sul
+
+## Curso
+Engenharia de Software, 8ª fase
+
+## Matéria
+Ciência de Dados
+
+## Professor
+Martim Dietterle
+
+---
 
 Em resolução do problema, foi feito em linguagem Python no Google Colab (Notebooks) o código necessário para rodar a aplicação.  
-No link (público): [Pasta do Projeto no Google Drive](https://drive.google.com/drive/folders/1-JMit_RuiWThvjjQS3-QgdHMy62sKIpa?usp=sharing),  
+No link (público): Pasta do Projeto no Google Drive,  
 podemos observar a pasta principal: `N2_MARTIM_ELEIÇÕES`, o arquivo `N2_MARTIM.ipynb`, o `mapa_prefeitos_2024` (gerado pelo Colab),  
 o arquivo `consulta_cand_colunas` (para entendimento do projeto) e o exercício passado pelo professor.  
 
@@ -108,4 +127,6 @@ O código inicial foi desenvolvido para montar o Google Drive, definir o caminho
 ---
 
 Este projeto foi desenvolvido para analisar dados eleitorais e responder a diversas questões relacionadas às eleições de 2024. Cada questão foi abordada com um conjunto específico de passos e técnicas de análise de dados.
+
+
 
